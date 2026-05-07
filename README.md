@@ -1,2 +1,2 @@
 # repositorio
-Mi primer repositorio en GitHub
+Repositorio en GitHub
